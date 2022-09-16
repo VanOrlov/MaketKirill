@@ -48,7 +48,7 @@ body{
 @font-face{
     font-family: 'Roboto', sans-serif;
     src: local('Roboto'),
-        url('/fonts/Roboto-Regular.ttf') format('truetype')
+        url('../fonts/Roboto-Regular.ttf') format('truetype')
 }
 
 /*---------------------------------------------------------------------------------------------*/
